@@ -1,0 +1,20 @@
+{
+  "name": "express-versioned-router",
+  "version": "0.0.1",
+  "description": "Provides simple routing support for semver versioning in express for apis",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsorlov/express-versioned-router.git"
+  },
+  "author": "Daniel Sörlöv <daniel@sorlov.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsorlov/express-versioned-router/issues"
+  },
+  "homepage": "https://github.com/dsorlov/express-versioned-router#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
