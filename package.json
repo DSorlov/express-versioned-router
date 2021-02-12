@@ -1,6 +1,6 @@
 {
   "name": "express-versioned-router",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Provides simple routing support for semver versioning in express for apis",
   "main": "index.js",
   "scripts": {},
